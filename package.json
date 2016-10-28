@@ -1,0 +1,23 @@
+{
+  "name": "node-spnego-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "kerberos": "0.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlbdk/node-spnego-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlbdk/node-spnego-test/issues"
+  },
+  "homepage": "https://github.com/tlbdk/node-spnego-test#readme"
+}
